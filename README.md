@@ -12,7 +12,7 @@ python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
 ```
-All py files should now be runnable
+All py files should now be runnable in your favourite IDE
 
 ## Next steps
 Play around by adding new terms/sentences to make it better, so less false positives (when the program thinks it's sport but it's not) and less false negatives (when the program thinks it's not sport but it is) -> congratulations, youre now a data scientist :)
